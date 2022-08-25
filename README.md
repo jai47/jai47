@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jai47
-- 👀 I’m interested in Computer
+- 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning C++, Git
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 email me @ official.jaimishra@gmail.com
